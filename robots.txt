@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valeriylevchenko17-jpg.github.io/sitemap.xml
